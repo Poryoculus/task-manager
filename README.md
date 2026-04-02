@@ -53,7 +53,7 @@ src/
 /1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Poryoculus/task-manager.git
 cd task-manager
 ```
 /2.	Install dependencies:
