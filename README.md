@@ -2,9 +2,10 @@
 
 ## 📌 Overview
 
-This project is a command-line Task Manager application built with TypeScript. It allows users to create, manage, and track tasks directly from the terminal. The application demonstrates core programming concepts such as classes, asynchronous functions, recursion, and error handling.
 
-The purpose of this project is to strengthen my understanding of TypeScript and backend logic while building a practical and interactive application.
+The software is a command-line Task Manager application developed with TypeScript and Node.js. It allows users to create, organize, and manage tasks directly from the terminal. The application is structured into models, services, and utility modules, promoting separation of concerns and maintainability.
+
+The purpose of this project is to practice backend logic and reinforce key programming concepts such as asynchronous operations, error handling, and recursion. By building a practical tool, the project simulates real-world task management scenarios while improving code organization, data persistence strategies, and overall software design skills.
 
 ---
 
@@ -64,4 +65,20 @@ npm install
 /3.	Run the application:
 ```
 npm run start
-```:w
+```
+
+## Youtube video
+
+
+# Development Environment
+
+The development of this project was done using Nvim as the primary code editor. Node.js was used as the runtime environment to execute the application, and ts-node was used to run TypeScript files directly without a separate compilation step. The built-in file system (fs) module was used to handle data persistence through a JSON file.
+
+The programming language used for this project was TypeScript. It was chosen for its strong typing system and its ability to improve code reliability and maintainability, making it well-suited for building structured backend applications and managing application logic efficiently.
+
+# Useful Websites
+
+- https://www.typescriptlang.org/docs/  
+- https://nodejs.org/en/docs  
+- https://www.w3schools.com/typescript/  
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
