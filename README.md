@@ -32,21 +32,17 @@ The purpose of this project is to practice backend logic and reinforce key progr
 ---
 
 ## 📂 Project Structure
-src/
-│
-├── models/
-│   └── Task.ts
-│
-├── services/
-│   └── TaskService.ts
-│
-├── utils/
-│   ├── storage.ts
-│   ├── recursion.ts
-│   └── errorDemo.ts
-│
-└── index.ts
-
++ src/
+  - index.ts
+  + models
+    - task.ts
+  + services
+    - TaskService.ts
+  + task.json
+  + utils
+    + errorDemo.ts
+    + recursion.ts
+    + storage.ts
 ---
 
 ## ▶️ How to Run the Program
